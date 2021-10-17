@@ -117,7 +117,7 @@ export default function Home() {
       <div id="frontsvg">
         <img
           alt="hacker" transform= "rotateY(180deg)"
-          src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/student.svg`}
+          src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/mc_student.svg`}
         />
 
      

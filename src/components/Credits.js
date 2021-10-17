@@ -12,10 +12,10 @@ export default function Credits() {
 const bodyStyles = {
   color: "#444",
   background: "linear-gradient(-45deg, #23a6d5, #0a192f)",
-	animation: "gradient 15s ease infinite",
+	animation: "gradient 5s ease infinite",
 	height: "100vh",
   width: "100%",
-  height: "100vh",
+  
   overflowX: "hidden"
 }
 const headerStyles = {
