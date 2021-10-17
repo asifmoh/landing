@@ -184,7 +184,7 @@ h1 {
 }
 
 
-#mysvg {
+#frontsvg {
   width: 50%;
   transform: translate(100%, 0%);
   img {
@@ -686,13 +686,13 @@ textarea {
   #email {
     width: 35.2rem;
   }
-  #mysvg {
+  #frontsvg {
     display: none;
   }
 }
 
 @media (max-width: 767px) {
-  #mysvg {
+  #frontsvg {
     display: none;
   }
   .container {

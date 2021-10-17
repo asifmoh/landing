@@ -16,7 +16,7 @@ function Quiz() {
         { start ? <Quizbox /> : <Start props={setStart} />} 
       </div>
       </div>
-      <div id="mysvg">
+      <div id="frontsvg">
         <img
           alt="hacker"
           src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/web_developer.svg`}

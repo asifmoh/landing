@@ -199,23 +199,24 @@ h1 {
 	font-size: 60px !important
 }
 
-#mysvg {
+#frontsvg {
 	width: 50%;
 	-webkit-transform: translate(100%, 0%);
 	transform: translate(100%, 0%)
 }
 
-#mysvg img {
+#frontsvg img {
 	display: block;
 	margin: auto;
 	padding-bottom: 50px;
 	width: 75%;
 	height: 100vh;
-	-webkit-transform: rotateY(180deg);
-	transform: rotateY(180deg);
-	-webkit-animation: myanim2 1s ease-in;
-	animation: myanim2 1s ease-in
+	
 }
+
+#frontsvg:hover {
+	fill: red;
+  }
 
 #contactsvg {
 	width: 50%;
@@ -791,7 +792,7 @@ textarea {
 	#email {
 		width: 35.2rem
 	}
-	#mysvg {
+	#frontsvg {
 		display: none
 	}
 }
@@ -800,7 +801,7 @@ textarea {
 	h1 {
 		font-size: 8vw !important
 	}
-	#mysvg {
+	#frontsvg {
 		display: none
 	}
 	#contactsvg {

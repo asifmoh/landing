@@ -87,7 +87,7 @@ files, and discuss projects to avoid unnecessary delays.
 
        
       </div>
-      <div id="mysvg">
+      <div id="frontsvg">
         <img
           alt="hacker"
           src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/user.svg`}

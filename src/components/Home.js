@@ -113,7 +113,7 @@ export default function Home() {
        
         
       </div>
-      <div id="mysvg">
+      <div id="frontsvg">
         <img
           alt="hacker"
           src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/student.svg`}
