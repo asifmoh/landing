@@ -10,7 +10,10 @@ export default function Credits() {
   }, []);
 // Styles
 const bodyStyles = {
-  background: "#0a192f",
+  color: "#444",
+  background: "linear-gradient(-45deg, #23a6d5, #0a192f)",
+	animation: "gradient 15s ease infinite",
+	height: "100vh",
   width: "100%",
   height: "100vh",
   overflowX: "hidden"

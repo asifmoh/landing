@@ -10,6 +10,8 @@ export default function Skills() {
 
   return (
     <>
+    <div className="bg"></div>
+    <div className="bg bg3"></div>
       <div className="container home-page">
         <span className="tags top-tags"> &nbsp;&nbsp;&nbsp;&lt;body&gt;</span>
         <div className="text-zone">
@@ -55,7 +57,7 @@ export default function Skills() {
       </div>
       <div id="frontsvg">
         <img
-          alt="hacker"
+          alt="hacker" 
           src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/skills.svg`}
         />
       </div>

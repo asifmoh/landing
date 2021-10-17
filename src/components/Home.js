@@ -27,7 +27,8 @@ export default function Home() {
   
   return (
     <>
-    
+  
+		    
       <div className="container home-page">
        
        
@@ -115,13 +116,16 @@ export default function Home() {
       </div>
       <div id="frontsvg">
         <img
-          alt="hacker"
+          alt="hacker" transform= "rotateY(180deg)"
           src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/student.svg`}
         />
 
      
       </div>
       
+      
+      
+
     </>
   );
 }

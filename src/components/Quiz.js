@@ -8,7 +8,7 @@ function Quiz() {
     const [start, setStart] = useState(false);
   
     return (
-
+    
 <div className="container home-page">
 
 <div className="text-zone">
@@ -18,13 +18,17 @@ function Quiz() {
       </div>
       <div id="frontsvg">
         <img
-          alt="hacker"
+          alt="hacker" 
           src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/web_developer.svg`}
         />
 
      
       </div>
       </div>
+
+
+     
+
     );
   }
   

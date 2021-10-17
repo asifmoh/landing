@@ -10,6 +10,8 @@ export default function About() {
 
   return (
     <>
+     <div className="bg"></div>
+    <div className="bg bg2"></div>
       <div className="container home-page">
        
         <div className="text-zone">
