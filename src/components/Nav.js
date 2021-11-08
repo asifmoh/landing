@@ -8,7 +8,7 @@ export default function Nav() {
         <a href="/">
           <img
             className="logo"
-            src="https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/mclogo.svg"
+            src="https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/Tia%20Alejandra.png"
             alt="logo"
           />
         </a>

@@ -36,62 +36,32 @@ export default function Home() {
         <div className="text-zone">
        
           <h1>
-            <span className="Slast">M</span>
+            <span className="Slast">A</span>
+            <span className="blast">s</span>
+            <span className="blast">i</span>
+            <span className="blast">f</span>
+            <span className="blast">&nbsp;</span>
+            <span className="blast">M</span>
             <span className="blast">o</span>
-            <span className="blast">t</span>
             <span className="blast">h</span>
-            <span className="blast">e</span>
-            <span className="blast">r</span>
-            <span className="blast">c</span>
-            <span className="blast">o</span>
-            <span className="blast">d</span>
-            <span className="blast">e</span>
-            <br/>
-            <span className="blast">C</span>
-            <span className="blast">o</span>
-            <span className="blast">d</span>
-            <span className="blast">e</span>
-            <span className="blast">&nbsp;</span>
             <span className="blast">i</span>
-            <span className="blast">t</span>
-            <span className="blast">&nbsp;</span>
-            <span className="blast">l</span>
-            <span className="blast">i</span>
-            <span className="blast">k</span>
-            <span className="blast">e</span>
-            <br/>
-            <span className="blast">y</span>
-            <span className="blast">o</span>
             <span className="blast">u</span>
-            <span className="blast">r</span>
-            
-
-
-            <span className="blast">&nbsp;</span>
-            <span className="blast">m</span>
-            <span className="blast">o</span>
-            <span className="blast">m</span>
-            <span className="blast">m</span>
-            <span className="blast">a</span>
-            
-                       
-            <span className="blast">&nbsp;</span>
-            <span className="blast">w</span>
-            <span className="blast">o</span>
-            <span className="blast">u</span>
-            <span className="blast">l</span>
             <span className="blast">d</span>
+            <span className="blast">d</span>
+            <span className="blast">i</span>
+            <span className="blast">n</span>
+           
             
           </h1>
           <Fade bottom duration={1200}>
              <h3>
               <Wavetext>
-              <Wave text="Digital Career Institute | Management Tool" />
+              <Wave text="Fachinformatiker | Full-Stack Web Developer" />
               </Wavetext>
               </h3>
             </Fade>
           
-<div> <p> Please contact DCI for the registration and signup to use our portal</p> </div>
+<div> <p> Every programmer is an artist </p> </div>
 
           <div className="icons">
             <a href="https://twitter.com/mothercode" target="_blank" rel="noopener noreferrer" >
@@ -117,7 +87,7 @@ export default function Home() {
       <div id="frontsvg">
         <img
           alt="hacker" transform= "rotateY(180deg)"
-          src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/mc_student.svg`}
+          src={`https://raw.githubusercontent.com/asifmoh/asifmoh/main/assets/Asif_home_001.svg`}
         />
 
      
